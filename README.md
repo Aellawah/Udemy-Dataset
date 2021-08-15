@@ -1,6 +1,5 @@
 ### [Project 7: Udemy courses analysis](https://github.com/Aellawah/Udemy-Dataset/blob/main/Udemy.ipynb)
-![](udemy-free-courses-banner.png)
-
+![](udemy_erfahrung.jpg)
 This Data set contains 3000+ entries for all courses data & subjects in Udemy application which we need to investigate to answer questions about subscribers and courses prices
 How many courses for each subject is udemy offering?
 
